@@ -1,5 +1,7 @@
 # enum_parse
 
+Note: This library is just bad and was superseded by https://github.com/darsto/genmatch
+
 Provides the [`enum_parse`] procedural macro that generates boilerplate code for parsing enum variants.
 
 ```rust
